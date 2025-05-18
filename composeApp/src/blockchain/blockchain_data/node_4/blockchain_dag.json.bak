@@ -1,0 +1,28 @@
+{
+  "nodes": {
+    "555faf42-def6-4c36-9ab3-230bdb3e2176": {
+      "node_id": "555faf42-def6-4c36-9ab3-230bdb3e2176",
+      "asset_id": "07DE7358080104E0",
+      "action": "register",
+      "user_id": "uDpWkAM3slUKENR6Sr7RVigYpjQ2",
+      "timestamp": 1747573753.5305972,
+      "references": [],
+      "signature": "61bc90668f06aad0713d8af69026abdd823492ad339f1b79acc0a6150a68f809",
+      "hash": "bf643131b80570d4a3bacb982727410dfcd81baab82916411388d7afcc540ac5",
+      "data": {
+        "material": "Metal",
+        "color": "Silver",
+        "weight": "250g",
+        "name": "Demo Product Template",
+        "description": "This is a sample product template for demonstration purposes",
+        "category": "Demo",
+        "manufacturer": "testuser1",
+        "createdAt": "1747573754348",
+        "templateId": "1547d719-0de7-4551-93b3-69545ac5f6d0"
+      }
+    }
+  },
+  "tips": [
+    "555faf42-def6-4c36-9ab3-230bdb3e2176"
+  ]
+}

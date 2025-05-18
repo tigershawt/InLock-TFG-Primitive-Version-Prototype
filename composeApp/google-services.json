@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448120675171",
+    "project_id": "inlock-e0f9e",
+    "storage_bucket": "inlock-e0f9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448120675171:android:7184e9951b07fa0e521156",
+        "android_client_info": {
+          "package_name": "com.jetbrains.kmpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnJbQ_nByQZaK6dEsETFNb86_knVEAio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/composeApp/build/
+/composeApp/build/classes/kotlin/iosArm64/main/klib/
+/composeApp/build/classes/kotlin/iosSimulatorArm64/main/klib/
+/composeApp/build/classes/kotlin/iosX64/main/klib/
